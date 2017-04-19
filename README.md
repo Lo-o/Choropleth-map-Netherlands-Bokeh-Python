@@ -5,5 +5,5 @@ Making a choropleth map using Bokeh (see http://bokeh.pydata.org/en/latest/docs/
 This notebook walks through a full example.
 The input data used for filling in the map is average household income on a municipality (gemeente) level.  
 This is obtained through CBS's open data protocol and the Python 'cbsodata' module to access this API.  
-Other data crunching is done in Pandas. 
+Other data crunching is done in Pandas.    
 
