@@ -7,3 +7,10 @@ The input data used for filling in the map is average household income on a muni
 This is obtained through CBS's open data protocol and the Python 'cbsodata' module to access this API.  
 Other data crunching is done in Pandas.    
 
+
+
+Click on 'Github Netherlands Choropleth map bokeh.ipynb' in the github window above.  
+Github should display a version of the notebook in the browser.  
+  
+Unfortunately, currently Bokeh doesn't render in this online view currently. I have used screenshots for illustration purposes.  
+When running locally, things should work nicely.
